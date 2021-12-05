@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'OneMobileTitle';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/onestore/OneMobilePop.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/onestore/OneMobilePop.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/onestore/OneMobilePop.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/onestore/OneMobilePop.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/onestore/OneMobilePop.ttf') format("truetype");
+    font-display: swap;
+}
