@@ -1,5 +1,3 @@
-# onestore
-
 # 원스토어 모바일고딕 본문체(OneMobile)
 
 <a href="https://wess.tistory.com/265" target="_blank">
