@@ -1,7 +1,7 @@
 # 원스토어 모바일고딕 본문체(OneMobile)
 
 <a href="https://wess.tistory.com/265" target="_blank">
-    <img src="https://webfontworld.github.io/gyeonggi/OneMobile.jpg" alt="OneMobile" style="width:300px">
+    <img src="https://webfontworld.github.io/onestore/OneMobile.jpg" alt="OneMobile" style="width:300px">
 </a>
 
 <pre>
@@ -43,7 +43,7 @@
 
 # 원스토어 모바일고딕 제목체(OneMobileTitle)
 <a href="https://wess.tistory.com/265" target="_blank">
-    <img src="https://webfontworld.github.io/gyeonggi/OneMobileTitle.jpg" alt="OneMobileTitle" style="width:300px">
+    <img src="https://webfontworld.github.io/onestore/OneMobileTitle.jpg" alt="OneMobileTitle" style="width:300px">
 </a>
 
 <pre>
@@ -62,12 +62,12 @@
 
 # 원스토어 모바일고딕 pop체(OneMobilePop)
 <a href="https://wess.tistory.com/265" target="_blank">
-    <img src="https://webfontworld.github.io/gyeonggi/OneMobilePop.jpg" alt="OneMobilePop" style="width:300px">
+    <img src="https://webfontworld.github.io/onestore/OneMobilePop.jpg" alt="OneMobilePop" style="width:300px">
 </a>
 
 <pre>
 @font-face {
-    font-family: 'OneMobileTitle';
+    font-family: 'OneMobilePop';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/onestore/OneMobilePop.eot');
