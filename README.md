@@ -67,7 +67,7 @@
 
 <pre>
 @font-face {
-    font-family: 'OneMobileTitle';
+    font-family: 'OneMobilePop';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/onestore/OneMobilePop.eot');
